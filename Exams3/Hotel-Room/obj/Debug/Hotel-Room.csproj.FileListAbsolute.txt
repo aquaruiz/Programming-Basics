@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams3\Hotel-Room\bin\Debug\Hotel-Room.exe.config
+C:\Users\Obache\source\repos\Exams3\Hotel-Room\bin\Debug\Hotel-Room.exe
+C:\Users\Obache\source\repos\Exams3\Hotel-Room\bin\Debug\Hotel-Room.pdb
+C:\Users\Obache\source\repos\Exams3\Hotel-Room\obj\Debug\Hotel-Room.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams3\Hotel-Room\obj\Debug\Hotel-Room.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams3\Hotel-Room\obj\Debug\Hotel-Room.exe
+C:\Users\Obache\source\repos\Exams3\Hotel-Room\obj\Debug\Hotel-Room.pdb

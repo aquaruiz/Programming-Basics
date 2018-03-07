@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams3\School-Camp\bin\Debug\School-Camp.exe.config
+C:\Users\Obache\source\repos\Exams3\School-Camp\bin\Debug\School-Camp.exe
+C:\Users\Obache\source\repos\Exams3\School-Camp\bin\Debug\School-Camp.pdb
+C:\Users\Obache\source\repos\Exams3\School-Camp\obj\Debug\School-Camp.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams3\School-Camp\obj\Debug\School-Camp.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams3\School-Camp\obj\Debug\School-Camp.exe
+C:\Users\Obache\source\repos\Exams3\School-Camp\obj\Debug\School-Camp.pdb

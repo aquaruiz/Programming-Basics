@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams5\Axe\bin\Debug\Axe.exe.config
+C:\Users\Obache\source\repos\Exams5\Axe\bin\Debug\Axe.exe
+C:\Users\Obache\source\repos\Exams5\Axe\bin\Debug\Axe.pdb
+C:\Users\Obache\source\repos\Exams5\Axe\obj\Debug\Axe.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams5\Axe\obj\Debug\Axe.exe
+C:\Users\Obache\source\repos\Exams5\Axe\obj\Debug\Axe.pdb

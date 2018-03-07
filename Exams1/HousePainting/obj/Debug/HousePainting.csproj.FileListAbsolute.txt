@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams1\HousePainting\bin\Debug\HousePainting.exe.config
+C:\Users\Obache\source\repos\Exams1\HousePainting\bin\Debug\HousePainting.exe
+C:\Users\Obache\source\repos\Exams1\HousePainting\bin\Debug\HousePainting.pdb
+C:\Users\Obache\source\repos\Exams1\HousePainting\obj\Debug\HousePainting.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams1\HousePainting\obj\Debug\HousePainting.exe
+C:\Users\Obache\source\repos\Exams1\HousePainting\obj\Debug\HousePainting.pdb
+C:\Users\Obache\source\repos\Exams1\HousePainting\obj\Debug\HousePainting.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+c:\users\obache\source\repos\Exams5\Sheriff\obj\Debug\Sheriff.csprojResolveAssemblyReference.cache
+c:\users\obache\source\repos\Exams5\Sheriff\obj\Debug\Sheriff.csproj.CoreCompileInputs.cache
+c:\users\obache\source\repos\Exams5\Sheriff\bin\Debug\Sheriff.exe.config
+c:\users\obache\source\repos\Exams5\Sheriff\bin\Debug\Sheriff.exe
+c:\users\obache\source\repos\Exams5\Sheriff\bin\Debug\Sheriff.pdb
+c:\users\obache\source\repos\Exams5\Sheriff\obj\Debug\Sheriff.exe
+c:\users\obache\source\repos\Exams5\Sheriff\obj\Debug\Sheriff.pdb

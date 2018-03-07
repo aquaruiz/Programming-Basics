@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams4\External-Evaluation\bin\Debug\External-Evaluation.exe.config
+C:\Users\Obache\source\repos\Exams4\External-Evaluation\bin\Debug\External-Evaluation.exe
+C:\Users\Obache\source\repos\Exams4\External-Evaluation\bin\Debug\External-Evaluation.pdb
+C:\Users\Obache\source\repos\Exams4\External-Evaluation\obj\Debug\External-Evaluation.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams4\External-Evaluation\obj\Debug\External-Evaluation.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams4\External-Evaluation\obj\Debug\External-Evaluation.exe
+C:\Users\Obache\source\repos\Exams4\External-Evaluation\obj\Debug\External-Evaluation.pdb

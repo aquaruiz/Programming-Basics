@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams2\World-Swimming-Champ\bin\Debug\World-Swimming-Champ.exe.config
+C:\Users\Obache\source\repos\Exams2\World-Swimming-Champ\bin\Debug\World-Swimming-Champ.exe
+C:\Users\Obache\source\repos\Exams2\World-Swimming-Champ\bin\Debug\World-Swimming-Champ.pdb
+C:\Users\Obache\source\repos\Exams2\World-Swimming-Champ\obj\Debug\World-Swimming-Champ.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams2\World-Swimming-Champ\obj\Debug\World-Swimming-Champ.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams2\World-Swimming-Champ\obj\Debug\World-Swimming-Champ.exe
+C:\Users\Obache\source\repos\Exams2\World-Swimming-Champ\obj\Debug\World-Swimming-Champ.pdb

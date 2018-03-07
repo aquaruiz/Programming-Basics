@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams3\Mobile-Operator\bin\Debug\Mobile-Operator.exe.config
+C:\Users\Obache\source\repos\Exams3\Mobile-Operator\bin\Debug\Mobile-Operator.exe
+C:\Users\Obache\source\repos\Exams3\Mobile-Operator\bin\Debug\Mobile-Operator.pdb
+C:\Users\Obache\source\repos\Exams3\Mobile-Operator\obj\Debug\Mobile-Operator.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams3\Mobile-Operator\obj\Debug\Mobile-Operator.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams3\Mobile-Operator\obj\Debug\Mobile-Operator.exe
+C:\Users\Obache\source\repos\Exams3\Mobile-Operator\obj\Debug\Mobile-Operator.pdb

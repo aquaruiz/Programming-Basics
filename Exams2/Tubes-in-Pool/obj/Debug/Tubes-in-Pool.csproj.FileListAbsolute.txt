@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams2\Tubes-in-Pool\bin\Debug\Tubes-in-Pool.exe.config
+C:\Users\Obache\source\repos\Exams2\Tubes-in-Pool\bin\Debug\Tubes-in-Pool.exe
+C:\Users\Obache\source\repos\Exams2\Tubes-in-Pool\bin\Debug\Tubes-in-Pool.pdb
+C:\Users\Obache\source\repos\Exams2\Tubes-in-Pool\obj\Debug\Tubes-in-Pool.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams2\Tubes-in-Pool\obj\Debug\Tubes-in-Pool.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams2\Tubes-in-Pool\obj\Debug\Tubes-in-Pool.exe
+C:\Users\Obache\source\repos\Exams2\Tubes-in-Pool\obj\Debug\Tubes-in-Pool.pdb

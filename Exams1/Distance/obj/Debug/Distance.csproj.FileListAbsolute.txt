@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams1\Distance\bin\Debug\Distance.exe.config
+C:\Users\Obache\source\repos\Exams1\Distance\bin\Debug\Distance.exe
+C:\Users\Obache\source\repos\Exams1\Distance\bin\Debug\Distance.pdb
+C:\Users\Obache\source\repos\Exams1\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams1\Distance\obj\Debug\Distance.exe
+C:\Users\Obache\source\repos\Exams1\Distance\obj\Debug\Distance.pdb

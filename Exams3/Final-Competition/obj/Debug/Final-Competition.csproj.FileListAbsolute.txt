@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams3\Final-Competition\bin\Debug\Final-Competition.exe.config
+C:\Users\Obache\source\repos\Exams3\Final-Competition\bin\Debug\Final-Competition.exe
+C:\Users\Obache\source\repos\Exams3\Final-Competition\bin\Debug\Final-Competition.pdb
+C:\Users\Obache\source\repos\Exams3\Final-Competition\obj\Debug\Final-Competition.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams3\Final-Competition\obj\Debug\Final-Competition.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams3\Final-Competition\obj\Debug\Final-Competition.exe
+C:\Users\Obache\source\repos\Exams3\Final-Competition\obj\Debug\Final-Competition.pdb

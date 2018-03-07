@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams4\Soft-Uni-Camp\bin\Debug\Soft-Uni-Camp.exe.config
+C:\Users\Obache\source\repos\Exams4\Soft-Uni-Camp\bin\Debug\Soft-Uni-Camp.exe
+C:\Users\Obache\source\repos\Exams4\Soft-Uni-Camp\bin\Debug\Soft-Uni-Camp.pdb
+C:\Users\Obache\source\repos\Exams4\Soft-Uni-Camp\obj\Debug\Soft-Uni-Camp.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams4\Soft-Uni-Camp\obj\Debug\Soft-Uni-Camp.exe
+C:\Users\Obache\source\repos\Exams4\Soft-Uni-Camp\obj\Debug\Soft-Uni-Camp.pdb

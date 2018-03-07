@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams6\Sum-or-Multiply\bin\Debug\Sum-or-Multiply.exe.config
+C:\Users\Obache\source\repos\Exams6\Sum-or-Multiply\bin\Debug\Sum-or-Multiply.exe
+C:\Users\Obache\source\repos\Exams6\Sum-or-Multiply\bin\Debug\Sum-or-Multiply.pdb
+C:\Users\Obache\source\repos\Exams6\Sum-or-Multiply\obj\Debug\Sum-or-Multiply.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams6\Sum-or-Multiply\obj\Debug\Sum-or-Multiply.exe
+C:\Users\Obache\source\repos\Exams6\Sum-or-Multiply\obj\Debug\Sum-or-Multiply.pdb

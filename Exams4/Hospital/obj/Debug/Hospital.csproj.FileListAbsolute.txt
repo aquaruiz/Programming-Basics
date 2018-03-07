@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams4\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\Obache\source\repos\Exams4\Hospital\bin\Debug\Hospital.exe
+C:\Users\Obache\source\repos\Exams4\Hospital\bin\Debug\Hospital.pdb
+C:\Users\Obache\source\repos\Exams4\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams4\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams4\Hospital\obj\Debug\Hospital.exe
+C:\Users\Obache\source\repos\Exams4\Hospital\obj\Debug\Hospital.pdb

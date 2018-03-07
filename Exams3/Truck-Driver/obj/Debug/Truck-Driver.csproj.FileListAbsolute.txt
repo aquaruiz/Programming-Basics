@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams3\Truck-Driver\bin\Debug\Truck-Driver.exe.config
+C:\Users\Obache\source\repos\Exams3\Truck-Driver\bin\Debug\Truck-Driver.exe
+C:\Users\Obache\source\repos\Exams3\Truck-Driver\bin\Debug\Truck-Driver.pdb
+C:\Users\Obache\source\repos\Exams3\Truck-Driver\obj\Debug\Truck-Driver.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams3\Truck-Driver\obj\Debug\Truck-Driver.exe
+C:\Users\Obache\source\repos\Exams3\Truck-Driver\obj\Debug\Truck-Driver.pdb

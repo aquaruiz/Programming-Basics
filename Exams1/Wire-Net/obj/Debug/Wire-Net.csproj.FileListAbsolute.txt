@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams1\Wire-Net\bin\Debug\Wire-Net.exe.config
+C:\Users\Obache\source\repos\Exams1\Wire-Net\bin\Debug\Wire-Net.exe
+C:\Users\Obache\source\repos\Exams1\Wire-Net\bin\Debug\Wire-Net.pdb
+C:\Users\Obache\source\repos\Exams1\Wire-Net\obj\Debug\Wire-Net.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams1\Wire-Net\obj\Debug\Wire-Net.exe
+C:\Users\Obache\source\repos\Exams1\Wire-Net\obj\Debug\Wire-Net.pdb

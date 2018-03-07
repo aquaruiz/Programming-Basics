@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams3\On-Time-for-the-Exam\bin\Debug\On-Time-for-the-Exam.exe.config
+C:\Users\Obache\source\repos\Exams3\On-Time-for-the-Exam\bin\Debug\On-Time-for-the-Exam.exe
+C:\Users\Obache\source\repos\Exams3\On-Time-for-the-Exam\bin\Debug\On-Time-for-the-Exam.pdb
+C:\Users\Obache\source\repos\Exams3\On-Time-for-the-Exam\obj\Debug\On-Time-for-the-Exam.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams3\On-Time-for-the-Exam\obj\Debug\On-Time-for-the-Exam.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams3\On-Time-for-the-Exam\obj\Debug\On-Time-for-the-Exam.exe
+C:\Users\Obache\source\repos\Exams3\On-Time-for-the-Exam\obj\Debug\On-Time-for-the-Exam.pdb

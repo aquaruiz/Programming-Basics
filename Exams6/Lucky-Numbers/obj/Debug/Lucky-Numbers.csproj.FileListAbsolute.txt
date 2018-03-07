@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams6\Lucky-Numbers\bin\Debug\Lucky-Numbers.exe.config
+C:\Users\Obache\source\repos\Exams6\Lucky-Numbers\bin\Debug\Lucky-Numbers.exe
+C:\Users\Obache\source\repos\Exams6\Lucky-Numbers\bin\Debug\Lucky-Numbers.pdb
+C:\Users\Obache\source\repos\Exams6\Lucky-Numbers\obj\Debug\Lucky-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams6\Lucky-Numbers\obj\Debug\Lucky-Numbers.exe
+C:\Users\Obache\source\repos\Exams6\Lucky-Numbers\obj\Debug\Lucky-Numbers.pdb

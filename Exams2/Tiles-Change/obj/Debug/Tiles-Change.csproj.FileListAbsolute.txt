@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams2\Tiles-Change\bin\Debug\Tiles-Change.exe.config
+C:\Users\Obache\source\repos\Exams2\Tiles-Change\bin\Debug\Tiles-Change.exe
+C:\Users\Obache\source\repos\Exams2\Tiles-Change\bin\Debug\Tiles-Change.pdb
+C:\Users\Obache\source\repos\Exams2\Tiles-Change\obj\Debug\Tiles-Change.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams2\Tiles-Change\obj\Debug\Tiles-Change.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams2\Tiles-Change\obj\Debug\Tiles-Change.exe
+C:\Users\Obache\source\repos\Exams2\Tiles-Change\obj\Debug\Tiles-Change.pdb

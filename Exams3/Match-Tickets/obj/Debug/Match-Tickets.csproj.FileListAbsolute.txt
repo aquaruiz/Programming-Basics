@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams3\Match-Tickets\bin\Debug\Match-Tickets.exe.config
+C:\Users\Obache\source\repos\Exams3\Match-Tickets\bin\Debug\Match-Tickets.exe
+C:\Users\Obache\source\repos\Exams3\Match-Tickets\bin\Debug\Match-Tickets.pdb
+C:\Users\Obache\source\repos\Exams3\Match-Tickets\obj\Debug\Match-Tickets.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams3\Match-Tickets\obj\Debug\Match-Tickets.exe
+C:\Users\Obache\source\repos\Exams3\Match-Tickets\obj\Debug\Match-Tickets.pdb

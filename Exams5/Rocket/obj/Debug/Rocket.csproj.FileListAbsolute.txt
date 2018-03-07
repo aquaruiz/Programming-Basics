@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams5\Rocket\bin\Debug\Rocket.exe.config
+C:\Users\Obache\source\repos\Exams5\Rocket\bin\Debug\Rocket.exe
+C:\Users\Obache\source\repos\Exams5\Rocket\bin\Debug\Rocket.pdb
+C:\Users\Obache\source\repos\Exams5\Rocket\obj\Debug\Rocket.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams5\Rocket\obj\Debug\Rocket.exe
+C:\Users\Obache\source\repos\Exams5\Rocket\obj\Debug\Rocket.pdb

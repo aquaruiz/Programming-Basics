@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams5\Fox\bin\Debug\Fox.exe.config
+C:\Users\Obache\source\repos\Exams5\Fox\bin\Debug\Fox.exe
+C:\Users\Obache\source\repos\Exams5\Fox\bin\Debug\Fox.pdb
+C:\Users\Obache\source\repos\Exams5\Fox\obj\Debug\Fox.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams5\Fox\obj\Debug\Fox.exe
+C:\Users\Obache\source\repos\Exams5\Fox\obj\Debug\Fox.pdb

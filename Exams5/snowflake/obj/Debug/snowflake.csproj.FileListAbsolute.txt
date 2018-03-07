@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams5\snowflake\bin\Debug\snowflake.exe.config
+C:\Users\Obache\source\repos\Exams5\snowflake\bin\Debug\snowflake.exe
+C:\Users\Obache\source\repos\Exams5\snowflake\bin\Debug\snowflake.pdb
+C:\Users\Obache\source\repos\Exams5\snowflake\obj\Debug\snowflake.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams5\snowflake\obj\Debug\snowflake.exe
+C:\Users\Obache\source\repos\Exams5\snowflake\obj\Debug\snowflake.pdb

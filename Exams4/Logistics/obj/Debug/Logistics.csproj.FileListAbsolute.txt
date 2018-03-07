@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams4\Logistics\obj\Debug\Logistics.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams4\Logistics\bin\Debug\Logistics.exe.config
+C:\Users\Obache\source\repos\Exams4\Logistics\bin\Debug\Logistics.exe
+C:\Users\Obache\source\repos\Exams4\Logistics\bin\Debug\Logistics.pdb
+C:\Users\Obache\source\repos\Exams4\Logistics\obj\Debug\Logistics.exe
+C:\Users\Obache\source\repos\Exams4\Logistics\obj\Debug\Logistics.pdb

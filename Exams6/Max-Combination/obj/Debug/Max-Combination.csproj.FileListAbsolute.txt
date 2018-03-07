@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams6\Max-Combination\bin\Debug\Max-Combination.exe.config
+C:\Users\Obache\source\repos\Exams6\Max-Combination\bin\Debug\Max-Combination.exe
+C:\Users\Obache\source\repos\Exams6\Max-Combination\bin\Debug\Max-Combination.pdb
+C:\Users\Obache\source\repos\Exams6\Max-Combination\obj\Debug\Max-Combination.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams6\Max-Combination\obj\Debug\Max-Combination.exe
+C:\Users\Obache\source\repos\Exams6\Max-Combination\obj\Debug\Max-Combination.pdb

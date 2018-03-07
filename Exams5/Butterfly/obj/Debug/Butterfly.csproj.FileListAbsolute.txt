@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams5\Butterfly\bin\Debug\Butterfly.exe.config
+C:\Users\Obache\source\repos\Exams5\Butterfly\bin\Debug\Butterfly.exe
+C:\Users\Obache\source\repos\Exams5\Butterfly\bin\Debug\Butterfly.pdb
+C:\Users\Obache\source\repos\Exams5\Butterfly\obj\Debug\Butterfly.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams5\Butterfly\obj\Debug\Butterfly.exe
+C:\Users\Obache\source\repos\Exams5\Butterfly\obj\Debug\Butterfly.pdb

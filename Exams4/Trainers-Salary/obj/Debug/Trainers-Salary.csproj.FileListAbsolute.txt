@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams4\Trainers-Salary\bin\Debug\Trainers-Salary.exe.config
+C:\Users\Obache\source\repos\Exams4\Trainers-Salary\bin\Debug\Trainers-Salary.exe
+C:\Users\Obache\source\repos\Exams4\Trainers-Salary\bin\Debug\Trainers-Salary.pdb
+C:\Users\Obache\source\repos\Exams4\Trainers-Salary\obj\Debug\Trainers-Salary.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams4\Trainers-Salary\obj\Debug\Trainers-Salary.exe
+C:\Users\Obache\source\repos\Exams4\Trainers-Salary\obj\Debug\Trainers-Salary.pdb

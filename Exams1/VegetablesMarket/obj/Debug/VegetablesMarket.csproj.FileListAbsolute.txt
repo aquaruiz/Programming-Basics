@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams1\VegetablesMarket\bin\Debug\VegetablesMarket.exe.config
+C:\Users\Obache\source\repos\Exams1\VegetablesMarket\bin\Debug\VegetablesMarket.exe
+C:\Users\Obache\source\repos\Exams1\VegetablesMarket\bin\Debug\VegetablesMarket.pdb
+C:\Users\Obache\source\repos\Exams1\VegetablesMarket\obj\Debug\VegetablesMarket.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams1\VegetablesMarket\obj\Debug\VegetablesMarket.exe
+C:\Users\Obache\source\repos\Exams1\VegetablesMarket\obj\Debug\VegetablesMarket.pdb

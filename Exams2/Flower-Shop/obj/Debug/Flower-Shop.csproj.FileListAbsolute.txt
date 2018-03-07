@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams2\Flower-Shop\bin\Debug\Flower-Shop.exe.config
+C:\Users\Obache\source\repos\Exams2\Flower-Shop\bin\Debug\Flower-Shop.exe
+C:\Users\Obache\source\repos\Exams2\Flower-Shop\bin\Debug\Flower-Shop.pdb
+C:\Users\Obache\source\repos\Exams2\Flower-Shop\obj\Debug\Flower-Shop.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams2\Flower-Shop\obj\Debug\Flower-Shop.exe
+C:\Users\Obache\source\repos\Exams2\Flower-Shop\obj\Debug\Flower-Shop.pdb

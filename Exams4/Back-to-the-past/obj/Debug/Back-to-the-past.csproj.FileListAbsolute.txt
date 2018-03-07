@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams4\Back-to-the-past\bin\Debug\Back-to-the-past.exe.config
+C:\Users\Obache\source\repos\Exams4\Back-to-the-past\bin\Debug\Back-to-the-past.exe
+C:\Users\Obache\source\repos\Exams4\Back-to-the-past\bin\Debug\Back-to-the-past.pdb
+C:\Users\Obache\source\repos\Exams4\Back-to-the-past\obj\Debug\Back-to-the-past.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams4\Back-to-the-past\obj\Debug\Back-to-the-past.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams4\Back-to-the-past\obj\Debug\Back-to-the-past.exe
+C:\Users\Obache\source\repos\Exams4\Back-to-the-past\obj\Debug\Back-to-the-past.pdb

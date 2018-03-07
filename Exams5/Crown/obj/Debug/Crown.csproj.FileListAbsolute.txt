@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams5\Crown\bin\Debug\Crown.exe.config
+C:\Users\Obache\source\repos\Exams5\Crown\bin\Debug\Crown.exe
+C:\Users\Obache\source\repos\Exams5\Crown\bin\Debug\Crown.pdb
+C:\Users\Obache\source\repos\Exams5\Crown\obj\Debug\Crown.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams5\Crown\obj\Debug\Crown.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams5\Crown\obj\Debug\Crown.exe
+C:\Users\Obache\source\repos\Exams5\Crown\obj\Debug\Crown.pdb

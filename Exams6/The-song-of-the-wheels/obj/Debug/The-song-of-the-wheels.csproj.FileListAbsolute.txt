@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams6\The-song-of-the-wheels\bin\Debug\The-song-of-the-wheels.exe.config
+C:\Users\Obache\source\repos\Exams6\The-song-of-the-wheels\bin\Debug\The-song-of-the-wheels.exe
+C:\Users\Obache\source\repos\Exams6\The-song-of-the-wheels\bin\Debug\The-song-of-the-wheels.pdb
+C:\Users\Obache\source\repos\Exams6\The-song-of-the-wheels\obj\Debug\The-song-of-the-wheels.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams6\The-song-of-the-wheels\obj\Debug\The-song-of-the-wheels.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams6\The-song-of-the-wheels\obj\Debug\The-song-of-the-wheels.exe
+C:\Users\Obache\source\repos\Exams6\The-song-of-the-wheels\obj\Debug\The-song-of-the-wheels.pdb

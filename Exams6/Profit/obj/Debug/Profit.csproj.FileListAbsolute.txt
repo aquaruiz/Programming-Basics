@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams6\Profit\bin\Debug\Profit.exe.config
+C:\Users\Obache\source\repos\Exams6\Profit\bin\Debug\Profit.exe
+C:\Users\Obache\source\repos\Exams6\Profit\bin\Debug\Profit.pdb
+C:\Users\Obache\source\repos\Exams6\Profit\obj\Debug\Profit.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams6\Profit\obj\Debug\Profit.exe
+C:\Users\Obache\source\repos\Exams6\Profit\obj\Debug\Profit.pdb

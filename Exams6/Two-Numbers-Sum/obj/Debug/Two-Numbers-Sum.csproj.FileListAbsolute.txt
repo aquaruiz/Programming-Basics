@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams6\Two-Numbers-Sum\bin\Debug\Two-Numbers-Sum.exe.config
+C:\Users\Obache\source\repos\Exams6\Two-Numbers-Sum\bin\Debug\Two-Numbers-Sum.exe
+C:\Users\Obache\source\repos\Exams6\Two-Numbers-Sum\bin\Debug\Two-Numbers-Sum.pdb
+C:\Users\Obache\source\repos\Exams6\Two-Numbers-Sum\obj\Debug\Two-Numbers-Sum.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams6\Two-Numbers-Sum\obj\Debug\Two-Numbers-Sum.exe
+C:\Users\Obache\source\repos\Exams6\Two-Numbers-Sum\obj\Debug\Two-Numbers-Sum.pdb

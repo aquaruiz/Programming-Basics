@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams4\Game-of-Intervals\bin\Debug\Game-of-Intervals.exe.config
+C:\Users\Obache\source\repos\Exams4\Game-of-Intervals\bin\Debug\Game-of-Intervals.exe
+C:\Users\Obache\source\repos\Exams4\Game-of-Intervals\bin\Debug\Game-of-Intervals.pdb
+C:\Users\Obache\source\repos\Exams4\Game-of-Intervals\obj\Debug\Game-of-Intervals.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams4\Game-of-Intervals\obj\Debug\Game-of-Intervals.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams4\Game-of-Intervals\obj\Debug\Game-of-Intervals.exe
+C:\Users\Obache\source\repos\Exams4\Game-of-Intervals\obj\Debug\Game-of-Intervals.pdb

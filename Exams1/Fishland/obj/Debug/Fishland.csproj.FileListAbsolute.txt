@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams1\Fishland\bin\Debug\Fishland.exe.config
+C:\Users\Obache\source\repos\Exams1\Fishland\bin\Debug\Fishland.exe
+C:\Users\Obache\source\repos\Exams1\Fishland\bin\Debug\Fishland.pdb
+C:\Users\Obache\source\repos\Exams1\Fishland\obj\Debug\Fishland.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams1\Fishland\obj\Debug\Fishland.exe
+C:\Users\Obache\source\repos\Exams1\Fishland\obj\Debug\Fishland.pdb

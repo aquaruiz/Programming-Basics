@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams1\TilesRepair\obj\Debug\TilesRepair.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams1\TilesRepair\obj\Debug\TilesRepair.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams1\TilesRepair\bin\Debug\TilesRepair.exe.config
+C:\Users\Obache\source\repos\Exams1\TilesRepair\bin\Debug\TilesRepair.exe
+C:\Users\Obache\source\repos\Exams1\TilesRepair\bin\Debug\TilesRepair.pdb
+C:\Users\Obache\source\repos\Exams1\TilesRepair\obj\Debug\TilesRepair.exe
+C:\Users\Obache\source\repos\Exams1\TilesRepair\obj\Debug\TilesRepair.pdb

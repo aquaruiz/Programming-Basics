@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams6\Control-Number\bin\Debug\Control-Number.exe.config
+C:\Users\Obache\source\repos\Exams6\Control-Number\bin\Debug\Control-Number.exe
+C:\Users\Obache\source\repos\Exams6\Control-Number\bin\Debug\Control-Number.pdb
+C:\Users\Obache\source\repos\Exams6\Control-Number\obj\Debug\Control-Number.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams6\Control-Number\obj\Debug\Control-Number.exe
+C:\Users\Obache\source\repos\Exams6\Control-Number\obj\Debug\Control-Number.pdb

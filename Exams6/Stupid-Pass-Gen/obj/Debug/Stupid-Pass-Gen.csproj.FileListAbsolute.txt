@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams6\Stupid-Pass-Gen\bin\Debug\Stupid-Pass-Gen.exe.config
+C:\Users\Obache\source\repos\Exams6\Stupid-Pass-Gen\bin\Debug\Stupid-Pass-Gen.exe
+C:\Users\Obache\source\repos\Exams6\Stupid-Pass-Gen\bin\Debug\Stupid-Pass-Gen.pdb
+C:\Users\Obache\source\repos\Exams6\Stupid-Pass-Gen\obj\Debug\Stupid-Pass-Gen.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams6\Stupid-Pass-Gen\obj\Debug\Stupid-Pass-Gen.exe
+C:\Users\Obache\source\repos\Exams6\Stupid-Pass-Gen\obj\Debug\Stupid-Pass-Gen.pdb

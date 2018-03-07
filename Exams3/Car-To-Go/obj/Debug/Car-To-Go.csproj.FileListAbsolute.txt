@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams3\Car-To-Go\obj\Debug\Car-To-Go.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams3\Car-To-Go\bin\Debug\Car-To-Go.exe.config
+C:\Users\Obache\source\repos\Exams3\Car-To-Go\bin\Debug\Car-To-Go.exe
+C:\Users\Obache\source\repos\Exams3\Car-To-Go\bin\Debug\Car-To-Go.pdb
+C:\Users\Obache\source\repos\Exams3\Car-To-Go\obj\Debug\Car-To-Go.exe
+C:\Users\Obache\source\repos\Exams3\Car-To-Go\obj\Debug\Car-To-Go.pdb

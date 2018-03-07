@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams4\Money-Award\bin\Debug\Money-Award.exe.config
+C:\Users\Obache\source\repos\Exams4\Money-Award\bin\Debug\Money-Award.exe
+C:\Users\Obache\source\repos\Exams4\Money-Award\bin\Debug\Money-Award.pdb
+C:\Users\Obache\source\repos\Exams4\Money-Award\obj\Debug\Money-Award.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams4\Money-Award\obj\Debug\Money-Award.exe
+C:\Users\Obache\source\repos\Exams4\Money-Award\obj\Debug\Money-Award.pdb

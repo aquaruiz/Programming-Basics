@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams1\HousePrice\bin\Debug\HousePrice.exe.config
+C:\Users\Obache\source\repos\Exams1\HousePrice\bin\Debug\HousePrice.exe
+C:\Users\Obache\source\repos\Exams1\HousePrice\bin\Debug\HousePrice.pdb
+C:\Users\Obache\source\repos\Exams1\HousePrice\obj\Debug\HousePrice.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams1\HousePrice\obj\Debug\HousePrice.exe
+C:\Users\Obache\source\repos\Exams1\HousePrice\obj\Debug\HousePrice.pdb

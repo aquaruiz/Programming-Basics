@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams4\Grades\bin\Debug\Grades.exe.config
+C:\Users\Obache\source\repos\Exams4\Grades\bin\Debug\Grades.exe
+C:\Users\Obache\source\repos\Exams4\Grades\bin\Debug\Grades.pdb
+C:\Users\Obache\source\repos\Exams4\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams4\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams4\Grades\obj\Debug\Grades.exe
+C:\Users\Obache\source\repos\Exams4\Grades\obj\Debug\Grades.pdb

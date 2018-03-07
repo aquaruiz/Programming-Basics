@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams6\Letters-Combinations\bin\Debug\Letters-Combinations.exe.config
+C:\Users\Obache\source\repos\Exams6\Letters-Combinations\bin\Debug\Letters-Combinations.exe
+C:\Users\Obache\source\repos\Exams6\Letters-Combinations\bin\Debug\Letters-Combinations.pdb
+C:\Users\Obache\source\repos\Exams6\Letters-Combinations\obj\Debug\Letters-Combinations.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams6\Letters-Combinations\obj\Debug\Letters-Combinations.exe
+C:\Users\Obache\source\repos\Exams6\Letters-Combinations\obj\Debug\Letters-Combinations.pdb

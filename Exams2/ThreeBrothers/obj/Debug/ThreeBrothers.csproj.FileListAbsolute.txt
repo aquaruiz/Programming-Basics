@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams2\ThreeBrothers\obj\Debug\ThreeBrothers.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams2\ThreeBrothers\obj\Debug\ThreeBrothers.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams2\ThreeBrothers\bin\Debug\ThreeBrothers.exe.config
+C:\Users\Obache\source\repos\Exams2\ThreeBrothers\bin\Debug\ThreeBrothers.exe
+C:\Users\Obache\source\repos\Exams2\ThreeBrothers\bin\Debug\ThreeBrothers.pdb
+C:\Users\Obache\source\repos\Exams2\ThreeBrothers\obj\Debug\ThreeBrothers.exe
+C:\Users\Obache\source\repos\Exams2\ThreeBrothers\obj\Debug\ThreeBrothers.pdb

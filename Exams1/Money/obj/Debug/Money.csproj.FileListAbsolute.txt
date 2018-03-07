@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams1\Money\bin\Debug\Money.exe.config
+C:\Users\Obache\source\repos\Exams1\Money\bin\Debug\Money.exe
+C:\Users\Obache\source\repos\Exams1\Money\bin\Debug\Money.pdb
+C:\Users\Obache\source\repos\Exams1\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams1\Money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams1\Money\obj\Debug\Money.exe
+C:\Users\Obache\source\repos\Exams1\Money\obj\Debug\Money.pdb

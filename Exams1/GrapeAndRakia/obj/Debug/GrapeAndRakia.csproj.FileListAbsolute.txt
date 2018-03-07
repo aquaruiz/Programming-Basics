@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams1\GrapeAndRakia\bin\Debug\GrapeAndRakia.exe.config
+C:\Users\Obache\source\repos\Exams1\GrapeAndRakia\bin\Debug\GrapeAndRakia.exe
+C:\Users\Obache\source\repos\Exams1\GrapeAndRakia\bin\Debug\GrapeAndRakia.pdb
+C:\Users\Obache\source\repos\Exams1\GrapeAndRakia\obj\Debug\GrapeAndRakia.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams1\GrapeAndRakia\obj\Debug\GrapeAndRakia.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams1\GrapeAndRakia\obj\Debug\GrapeAndRakia.exe
+C:\Users\Obache\source\repos\Exams1\GrapeAndRakia\obj\Debug\GrapeAndRakia.pdb

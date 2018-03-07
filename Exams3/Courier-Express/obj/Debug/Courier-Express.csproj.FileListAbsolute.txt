@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams3\Courier-Express\bin\Debug\Courier-Express.exe.config
+C:\Users\Obache\source\repos\Exams3\Courier-Express\bin\Debug\Courier-Express.exe
+C:\Users\Obache\source\repos\Exams3\Courier-Express\bin\Debug\Courier-Express.pdb
+C:\Users\Obache\source\repos\Exams3\Courier-Express\obj\Debug\Courier-Express.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams3\Courier-Express\obj\Debug\Courier-Express.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams3\Courier-Express\obj\Debug\Courier-Express.exe
+C:\Users\Obache\source\repos\Exams3\Courier-Express\obj\Debug\Courier-Express.pdb

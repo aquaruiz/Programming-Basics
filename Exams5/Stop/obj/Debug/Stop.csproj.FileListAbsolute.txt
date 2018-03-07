@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams5\Stop\bin\Debug\Stop.exe.config
+C:\Users\Obache\source\repos\Exams5\Stop\bin\Debug\Stop.exe
+C:\Users\Obache\source\repos\Exams5\Stop\bin\Debug\Stop.pdb
+C:\Users\Obache\source\repos\Exams5\Stop\obj\Debug\Stop.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams5\Stop\obj\Debug\Stop.exe
+C:\Users\Obache\source\repos\Exams5\Stop\obj\Debug\Stop.pdb

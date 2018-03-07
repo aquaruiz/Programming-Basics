@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams2\Harvesting\bin\Debug\Harvesting.exe.config
+C:\Users\Obache\source\repos\Exams2\Harvesting\bin\Debug\Harvesting.exe
+C:\Users\Obache\source\repos\Exams2\Harvesting\bin\Debug\Harvesting.pdb
+C:\Users\Obache\source\repos\Exams2\Harvesting\obj\Debug\Harvesting.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams2\Harvesting\obj\Debug\Harvesting.exe
+C:\Users\Obache\source\repos\Exams2\Harvesting\obj\Debug\Harvesting.pdb

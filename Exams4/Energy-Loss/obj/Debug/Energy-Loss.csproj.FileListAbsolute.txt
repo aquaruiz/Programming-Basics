@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams4\Energy-Loss\bin\Debug\Energy-Loss.exe.config
+C:\Users\Obache\source\repos\Exams4\Energy-Loss\bin\Debug\Energy-Loss.exe
+C:\Users\Obache\source\repos\Exams4\Energy-Loss\bin\Debug\Energy-Loss.pdb
+C:\Users\Obache\source\repos\Exams4\Energy-Loss\obj\Debug\Energy-Loss.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams4\Energy-Loss\obj\Debug\Energy-Loss.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams4\Energy-Loss\obj\Debug\Energy-Loss.exe
+C:\Users\Obache\source\repos\Exams4\Energy-Loss\obj\Debug\Energy-Loss.pdb

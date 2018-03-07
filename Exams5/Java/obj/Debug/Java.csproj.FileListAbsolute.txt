@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams5\Java\obj\Debug\Java.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams5\Java\obj\Debug\Java.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams5\Java\bin\Debug\Java.exe.config
+C:\Users\Obache\source\repos\Exams5\Java\bin\Debug\Java.exe
+C:\Users\Obache\source\repos\Exams5\Java\bin\Debug\Java.pdb
+C:\Users\Obache\source\repos\Exams5\Java\obj\Debug\Java.exe
+C:\Users\Obache\source\repos\Exams5\Java\obj\Debug\Java.pdb

@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams5\Cup\bin\Debug\Cup.exe.config
+C:\Users\Obache\source\repos\Exams5\Cup\bin\Debug\Cup.exe
+C:\Users\Obache\source\repos\Exams5\Cup\bin\Debug\Cup.pdb
+C:\Users\Obache\source\repos\Exams5\Cup\obj\Debug\Cup.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams5\Cup\obj\Debug\Cup.exe
+C:\Users\Obache\source\repos\Exams5\Cup\obj\Debug\Cup.pdb

@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams6\Magical-Numbers\bin\Debug\Magical-Numbers.exe.config
+C:\Users\Obache\source\repos\Exams6\Magical-Numbers\bin\Debug\Magical-Numbers.exe
+C:\Users\Obache\source\repos\Exams6\Magical-Numbers\bin\Debug\Magical-Numbers.pdb
+C:\Users\Obache\source\repos\Exams6\Magical-Numbers\obj\Debug\Magical-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams6\Magical-Numbers\obj\Debug\Magical-Numbers.exe
+C:\Users\Obache\source\repos\Exams6\Magical-Numbers\obj\Debug\Magical-Numbers.pdb

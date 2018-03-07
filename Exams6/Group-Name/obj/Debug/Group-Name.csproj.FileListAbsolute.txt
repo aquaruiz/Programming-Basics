@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams6\Group-Name\bin\Debug\Group-Name.exe.config
+C:\Users\Obache\source\repos\Exams6\Group-Name\bin\Debug\Group-Name.exe
+C:\Users\Obache\source\repos\Exams6\Group-Name\bin\Debug\Group-Name.pdb
+C:\Users\Obache\source\repos\Exams6\Group-Name\obj\Debug\Group-Name.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams6\Group-Name\obj\Debug\Group-Name.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams6\Group-Name\obj\Debug\Group-Name.exe
+C:\Users\Obache\source\repos\Exams6\Group-Name\obj\Debug\Group-Name.pdb

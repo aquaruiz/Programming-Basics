@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams2\Lutenitsa\bin\Debug\Lutenitsa.exe.config
+C:\Users\Obache\source\repos\Exams2\Lutenitsa\bin\Debug\Lutenitsa.exe
+C:\Users\Obache\source\repos\Exams2\Lutenitsa\bin\Debug\Lutenitsa.pdb
+C:\Users\Obache\source\repos\Exams2\Lutenitsa\obj\Debug\Lutenitsa.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams2\Lutenitsa\obj\Debug\Lutenitsa.exe
+C:\Users\Obache\source\repos\Exams2\Lutenitsa\obj\Debug\Lutenitsa.pdb

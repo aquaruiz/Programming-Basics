@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams3\Number-Operations\bin\Debug\Number-Operations.exe.config
+C:\Users\Obache\source\repos\Exams3\Number-Operations\bin\Debug\Number-Operations.exe
+C:\Users\Obache\source\repos\Exams3\Number-Operations\bin\Debug\Number-Operations.pdb
+C:\Users\Obache\source\repos\Exams3\Number-Operations\obj\Debug\Number-Operations.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams3\Number-Operations\obj\Debug\Number-Operations.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams3\Number-Operations\obj\Debug\Number-Operations.exe
+C:\Users\Obache\source\repos\Exams3\Number-Operations\obj\Debug\Number-Operations.pdb

@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams6\Number-Generator\bin\Debug\Number-Generator.exe.config
+C:\Users\Obache\source\repos\Exams6\Number-Generator\bin\Debug\Number-Generator.exe
+C:\Users\Obache\source\repos\Exams6\Number-Generator\bin\Debug\Number-Generator.pdb
+C:\Users\Obache\source\repos\Exams6\Number-Generator\obj\Debug\Number-Generator.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams6\Number-Generator\obj\Debug\Number-Generator.exe
+C:\Users\Obache\source\repos\Exams6\Number-Generator\obj\Debug\Number-Generator.pdb
+C:\Users\Obache\source\repos\Exams6\Number-Generator\obj\Debug\Number-Generator.csprojResolveAssemblyReference.cache

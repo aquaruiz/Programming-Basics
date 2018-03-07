@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams2\Pets\bin\Debug\Pets.exe.config
+C:\Users\Obache\source\repos\Exams2\Pets\bin\Debug\Pets.exe
+C:\Users\Obache\source\repos\Exams2\Pets\bin\Debug\Pets.pdb
+C:\Users\Obache\source\repos\Exams2\Pets\obj\Debug\Pets.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams2\Pets\obj\Debug\Pets.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams2\Pets\obj\Debug\Pets.exe
+C:\Users\Obache\source\repos\Exams2\Pets\obj\Debug\Pets.pdb

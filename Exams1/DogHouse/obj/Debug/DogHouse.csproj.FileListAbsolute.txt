@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams1\DogHouse\bin\Debug\DogHouse.exe.config
+C:\Users\Obache\source\repos\Exams1\DogHouse\bin\Debug\DogHouse.exe
+C:\Users\Obache\source\repos\Exams1\DogHouse\bin\Debug\DogHouse.pdb
+C:\Users\Obache\source\repos\Exams1\DogHouse\obj\Debug\DogHouse.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams1\DogHouse\obj\Debug\DogHouse.exe
+C:\Users\Obache\source\repos\Exams1\DogHouse\obj\Debug\DogHouse.pdb
+C:\Users\Obache\source\repos\Exams1\DogHouse\obj\Debug\DogHouse.csprojResolveAssemblyReference.cache

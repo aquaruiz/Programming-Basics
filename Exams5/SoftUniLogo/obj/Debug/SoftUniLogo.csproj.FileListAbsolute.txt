@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams5\SoftUniLogo\bin\Debug\SoftUniLogo.exe.config
+C:\Users\Obache\source\repos\Exams5\SoftUniLogo\bin\Debug\SoftUniLogo.exe
+C:\Users\Obache\source\repos\Exams5\SoftUniLogo\bin\Debug\SoftUniLogo.pdb
+C:\Users\Obache\source\repos\Exams5\SoftUniLogo\obj\Debug\SoftUniLogo.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams5\SoftUniLogo\obj\Debug\SoftUniLogo.exe
+C:\Users\Obache\source\repos\Exams5\SoftUniLogo\obj\Debug\SoftUniLogo.pdb

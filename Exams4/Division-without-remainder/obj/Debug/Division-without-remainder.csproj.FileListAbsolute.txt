@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams4\Division-without-remainder\bin\Debug\Division-without-remainder.exe.config
+C:\Users\Obache\source\repos\Exams4\Division-without-remainder\bin\Debug\Division-without-remainder.exe
+C:\Users\Obache\source\repos\Exams4\Division-without-remainder\bin\Debug\Division-without-remainder.pdb
+C:\Users\Obache\source\repos\Exams4\Division-without-remainder\obj\Debug\Division-without-remainder.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams4\Division-without-remainder\obj\Debug\Division-without-remainder.exe
+C:\Users\Obache\source\repos\Exams4\Division-without-remainder\obj\Debug\Division-without-remainder.pdb

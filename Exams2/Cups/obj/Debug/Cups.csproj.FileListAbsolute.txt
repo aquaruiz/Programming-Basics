@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams2\Cups\bin\Debug\Cups.exe.config
+C:\Users\Obache\source\repos\Exams2\Cups\bin\Debug\Cups.exe
+C:\Users\Obache\source\repos\Exams2\Cups\bin\Debug\Cups.pdb
+C:\Users\Obache\source\repos\Exams2\Cups\obj\Debug\Cups.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams2\Cups\obj\Debug\Cups.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams2\Cups\obj\Debug\Cups.exe
+C:\Users\Obache\source\repos\Exams2\Cups\obj\Debug\Cups.pdb

@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams6\Stop-Number\bin\Debug\Stop-Number.exe.config
+C:\Users\Obache\source\repos\Exams6\Stop-Number\bin\Debug\Stop-Number.exe
+C:\Users\Obache\source\repos\Exams6\Stop-Number\bin\Debug\Stop-Number.pdb
+C:\Users\Obache\source\repos\Exams6\Stop-Number\obj\Debug\Stop-Number.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams6\Stop-Number\obj\Debug\Stop-Number.exe
+C:\Users\Obache\source\repos\Exams6\Stop-Number\obj\Debug\Stop-Number.pdb

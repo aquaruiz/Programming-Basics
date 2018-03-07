@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams5\ChristmasHat\bin\Debug\ChristmasHat.exe.config
+C:\Users\Obache\source\repos\Exams5\ChristmasHat\bin\Debug\ChristmasHat.exe
+C:\Users\Obache\source\repos\Exams5\ChristmasHat\bin\Debug\ChristmasHat.pdb
+C:\Users\Obache\source\repos\Exams5\ChristmasHat\obj\Debug\ChristmasHat.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams5\ChristmasHat\obj\Debug\ChristmasHat.exe
+C:\Users\Obache\source\repos\Exams5\ChristmasHat\obj\Debug\ChristmasHat.pdb

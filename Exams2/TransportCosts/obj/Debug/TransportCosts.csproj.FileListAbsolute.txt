@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams2\TransportCosts\bin\Debug\TransportCosts.exe.config
+C:\Users\Obache\source\repos\Exams2\TransportCosts\bin\Debug\TransportCosts.exe
+C:\Users\Obache\source\repos\Exams2\TransportCosts\bin\Debug\TransportCosts.pdb
+C:\Users\Obache\source\repos\Exams2\TransportCosts\obj\Debug\TransportCosts.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams2\TransportCosts\obj\Debug\TransportCosts.exe
+C:\Users\Obache\source\repos\Exams2\TransportCosts\obj\Debug\TransportCosts.pdb

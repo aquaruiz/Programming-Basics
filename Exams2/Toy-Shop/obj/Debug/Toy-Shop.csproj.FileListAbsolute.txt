@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams2\Toy-Shop\bin\Debug\Toy-Shop.exe.config
+C:\Users\Obache\source\repos\Exams2\Toy-Shop\bin\Debug\Toy-Shop.exe
+C:\Users\Obache\source\repos\Exams2\Toy-Shop\bin\Debug\Toy-Shop.pdb
+C:\Users\Obache\source\repos\Exams2\Toy-Shop\obj\Debug\Toy-Shop.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams2\Toy-Shop\obj\Debug\Toy-Shop.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams2\Toy-Shop\obj\Debug\Toy-Shop.exe
+C:\Users\Obache\source\repos\Exams2\Toy-Shop\obj\Debug\Toy-Shop.pdb

@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams3\Vacation\bin\Debug\Vacation.exe.config
+C:\Users\Obache\source\repos\Exams3\Vacation\bin\Debug\Vacation.exe
+C:\Users\Obache\source\repos\Exams3\Vacation\bin\Debug\Vacation.pdb
+C:\Users\Obache\source\repos\Exams3\Vacation\obj\Debug\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams3\Vacation\obj\Debug\Vacation.exe
+C:\Users\Obache\source\repos\Exams3\Vacation\obj\Debug\Vacation.pdb

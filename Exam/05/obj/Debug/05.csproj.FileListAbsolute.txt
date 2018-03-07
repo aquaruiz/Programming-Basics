@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exam\05\bin\Debug\05.exe.config
+C:\Users\Obache\source\repos\Exam\05\bin\Debug\05.exe
+C:\Users\Obache\source\repos\Exam\05\bin\Debug\05.pdb
+C:\Users\Obache\source\repos\Exam\05\obj\Debug\05.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exam\05\obj\Debug\05.exe
+C:\Users\Obache\source\repos\Exam\05\obj\Debug\05.pdb

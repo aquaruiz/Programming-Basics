@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams3\Fruit-Cocktails\obj\Debug\Fruit-Cocktails.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams3\Fruit-Cocktails\obj\Debug\Fruit-Cocktails.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams3\Fruit-Cocktails\bin\Debug\Fruit-Cocktails.exe.config
+C:\Users\Obache\source\repos\Exams3\Fruit-Cocktails\bin\Debug\Fruit-Cocktails.exe
+C:\Users\Obache\source\repos\Exams3\Fruit-Cocktails\bin\Debug\Fruit-Cocktails.pdb
+C:\Users\Obache\source\repos\Exams3\Fruit-Cocktails\obj\Debug\Fruit-Cocktails.exe
+C:\Users\Obache\source\repos\Exams3\Fruit-Cocktails\obj\Debug\Fruit-Cocktails.pdb

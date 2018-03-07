@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams6\Battles\bin\Debug\Battles.exe.config
+C:\Users\Obache\source\repos\Exams6\Battles\bin\Debug\Battles.exe
+C:\Users\Obache\source\repos\Exams6\Battles\bin\Debug\Battles.pdb
+C:\Users\Obache\source\repos\Exams6\Battles\obj\Debug\Battles.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams6\Battles\obj\Debug\Battles.exe
+C:\Users\Obache\source\repos\Exams6\Battles\obj\Debug\Battles.pdb

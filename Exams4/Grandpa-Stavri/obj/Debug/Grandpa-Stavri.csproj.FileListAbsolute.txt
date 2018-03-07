@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams4\Grandpa-Stavri\bin\Debug\Grandpa-Stavri.exe.config
+C:\Users\Obache\source\repos\Exams4\Grandpa-Stavri\bin\Debug\Grandpa-Stavri.exe
+C:\Users\Obache\source\repos\Exams4\Grandpa-Stavri\bin\Debug\Grandpa-Stavri.pdb
+C:\Users\Obache\source\repos\Exams4\Grandpa-Stavri\obj\Debug\Grandpa-Stavri.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams4\Grandpa-Stavri\obj\Debug\Grandpa-Stavri.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams4\Grandpa-Stavri\obj\Debug\Grandpa-Stavri.exe
+C:\Users\Obache\source\repos\Exams4\Grandpa-Stavri\obj\Debug\Grandpa-Stavri.pdb

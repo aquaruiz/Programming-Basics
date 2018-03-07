@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams2\Firm2\obj\Debug\Firm2.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams2\Firm2\bin\Debug\Firm2.exe.config
+C:\Users\Obache\source\repos\Exams2\Firm2\bin\Debug\Firm2.exe
+C:\Users\Obache\source\repos\Exams2\Firm2\bin\Debug\Firm2.pdb
+C:\Users\Obache\source\repos\Exams2\Firm2\obj\Debug\Firm2.exe
+C:\Users\Obache\source\repos\Exams2\Firm2\obj\Debug\Firm2.pdb

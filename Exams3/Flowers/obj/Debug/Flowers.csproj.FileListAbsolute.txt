@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams3\Flowers\bin\Debug\Flowers.exe.config
+C:\Users\Obache\source\repos\Exams3\Flowers\bin\Debug\Flowers.exe
+C:\Users\Obache\source\repos\Exams3\Flowers\bin\Debug\Flowers.pdb
+C:\Users\Obache\source\repos\Exams3\Flowers\obj\Debug\Flowers.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams3\Flowers\obj\Debug\Flowers.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams3\Flowers\obj\Debug\Flowers.exe
+C:\Users\Obache\source\repos\Exams3\Flowers\obj\Debug\Flowers.pdb

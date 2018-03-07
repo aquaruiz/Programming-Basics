@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams5\DrawFort\bin\Debug\DrawFort.exe.config
+C:\Users\Obache\source\repos\Exams5\DrawFort\bin\Debug\DrawFort.exe
+C:\Users\Obache\source\repos\Exams5\DrawFort\bin\Debug\DrawFort.pdb
+C:\Users\Obache\source\repos\Exams5\DrawFort\obj\Debug\DrawFort.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams5\DrawFort\obj\Debug\DrawFort.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams5\DrawFort\obj\Debug\DrawFort.exe
+C:\Users\Obache\source\repos\Exams5\DrawFort\obj\Debug\DrawFort.pdb

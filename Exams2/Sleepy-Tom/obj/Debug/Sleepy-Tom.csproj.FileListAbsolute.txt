@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams2\Sleepy-Tom\bin\Debug\Sleepy-Tom.exe.config
+C:\Users\Obache\source\repos\Exams2\Sleepy-Tom\bin\Debug\Sleepy-Tom.exe
+C:\Users\Obache\source\repos\Exams2\Sleepy-Tom\bin\Debug\Sleepy-Tom.pdb
+C:\Users\Obache\source\repos\Exams2\Sleepy-Tom\obj\Debug\Sleepy-Tom.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams2\Sleepy-Tom\obj\Debug\Sleepy-Tom.exe
+C:\Users\Obache\source\repos\Exams2\Sleepy-Tom\obj\Debug\Sleepy-Tom.pdb

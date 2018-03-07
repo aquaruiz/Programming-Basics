@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams5\Paralelepiped\bin\Debug\Paralelepiped.exe.config
+C:\Users\Obache\source\repos\Exams5\Paralelepiped\bin\Debug\Paralelepiped.exe
+C:\Users\Obache\source\repos\Exams5\Paralelepiped\bin\Debug\Paralelepiped.pdb
+C:\Users\Obache\source\repos\Exams5\Paralelepiped\obj\Debug\Paralelepiped.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams5\Paralelepiped\obj\Debug\Paralelepiped.exe
+C:\Users\Obache\source\repos\Exams5\Paralelepiped\obj\Debug\Paralelepiped.pdb
+C:\Users\Obache\source\repos\Exams5\Paralelepiped\obj\Debug\Paralelepiped.csprojResolveAssemblyReference.cache

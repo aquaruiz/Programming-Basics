@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams3\Bike-Race\obj\Debug\Bike-Race.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams3\Bike-Race\bin\Debug\Bike-Race.exe.config
+C:\Users\Obache\source\repos\Exams3\Bike-Race\bin\Debug\Bike-Race.exe
+C:\Users\Obache\source\repos\Exams3\Bike-Race\bin\Debug\Bike-Race.pdb
+C:\Users\Obache\source\repos\Exams3\Bike-Race\obj\Debug\Bike-Race.exe
+C:\Users\Obache\source\repos\Exams3\Bike-Race\obj\Debug\Bike-Race.pdb

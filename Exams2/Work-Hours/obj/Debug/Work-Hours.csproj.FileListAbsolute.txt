@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exams2\Work-Hours\bin\Debug\Work-Hours.exe.config
+C:\Users\Obache\source\repos\Exams2\Work-Hours\bin\Debug\Work-Hours.exe
+C:\Users\Obache\source\repos\Exams2\Work-Hours\bin\Debug\Work-Hours.pdb
+C:\Users\Obache\source\repos\Exams2\Work-Hours\obj\Debug\Work-Hours.csprojResolveAssemblyReference.cache
+C:\Users\Obache\source\repos\Exams2\Work-Hours\obj\Debug\Work-Hours.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams2\Work-Hours\obj\Debug\Work-Hours.exe
+C:\Users\Obache\source\repos\Exams2\Work-Hours\obj\Debug\Work-Hours.pdb

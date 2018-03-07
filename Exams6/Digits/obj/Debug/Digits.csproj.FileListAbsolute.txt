@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams6\Digits\bin\Debug\Digits.exe.config
+C:\Users\Obache\source\repos\Exams6\Digits\bin\Debug\Digits.exe
+C:\Users\Obache\source\repos\Exams6\Digits\bin\Debug\Digits.pdb
+C:\Users\Obache\source\repos\Exams6\Digits\obj\Debug\Digits.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams6\Digits\obj\Debug\Digits.exe
+C:\Users\Obache\source\repos\Exams6\Digits\obj\Debug\Digits.pdb

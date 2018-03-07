@@ -1,0 +1,7 @@
+C:\Users\Obache\source\repos\Exam\04\bin\Debug\04.exe.config
+C:\Users\Obache\source\repos\Exam\04\bin\Debug\04.exe
+C:\Users\Obache\source\repos\Exam\04\bin\Debug\04.pdb
+C:\Users\Obache\source\repos\Exam\04\obj\Debug\04.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exam\04\obj\Debug\04.exe
+C:\Users\Obache\source\repos\Exam\04\obj\Debug\04.pdb
+C:\Users\Obache\source\repos\Exam\04\obj\Debug\04.csprojResolveAssemblyReference.cache

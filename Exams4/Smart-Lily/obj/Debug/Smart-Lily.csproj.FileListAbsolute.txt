@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams4\Smart-Lily\bin\Debug\Smart-Lily.exe.config
+C:\Users\Obache\source\repos\Exams4\Smart-Lily\bin\Debug\Smart-Lily.exe
+C:\Users\Obache\source\repos\Exams4\Smart-Lily\bin\Debug\Smart-Lily.pdb
+C:\Users\Obache\source\repos\Exams4\Smart-Lily\obj\Debug\Smart-Lily.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams4\Smart-Lily\obj\Debug\Smart-Lily.exe
+C:\Users\Obache\source\repos\Exams4\Smart-Lily\obj\Debug\Smart-Lily.pdb

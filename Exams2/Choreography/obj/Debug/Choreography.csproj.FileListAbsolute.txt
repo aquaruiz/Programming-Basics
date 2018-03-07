@@ -1,0 +1,6 @@
+C:\Users\Obache\source\repos\Exams2\Choreography\bin\Debug\Choreography.exe.config
+C:\Users\Obache\source\repos\Exams2\Choreography\bin\Debug\Choreography.exe
+C:\Users\Obache\source\repos\Exams2\Choreography\bin\Debug\Choreography.pdb
+C:\Users\Obache\source\repos\Exams2\Choreography\obj\Debug\Choreography.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Exams2\Choreography\obj\Debug\Choreography.exe
+C:\Users\Obache\source\repos\Exams2\Choreography\obj\Debug\Choreography.pdb
